@@ -1,0 +1,6 @@
+code: particles-form-widget
+titles:
+  en: Particles Form Widget
+  it: Particles Form Widget
+group: free
+customUiPath: particles-form-widget.ftl

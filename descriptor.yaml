@@ -1,0 +1,13 @@
+code: myapp5-bundle
+description: This is the myapp5 bundle
+
+components:
+  plugins:
+    - plugins/myapp5-plugin.yaml
+
+  widgets:
+    - ui/widgets/particles/tableWidget/particles-table-widget-descriptor.yaml
+    - ui/widgets/particles/detailsWidget/particles-details-widget-descriptor.yaml
+    - ui/widgets/particles/formWidget/particles-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

@@ -1,0 +1,6 @@
+code: particles-table-widget
+titles:
+  en: Particles Table Widget
+  it: Particles Table Widget
+group: free
+customUiPath: particles-table-widget.ftl

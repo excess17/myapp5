@@ -1,0 +1,6 @@
+code: particles-details-widget
+titles:
+  en: Particles Details Widget
+  it: Particles Details Widget
+group: free
+customUiPath: particles-details-widget.ftl
